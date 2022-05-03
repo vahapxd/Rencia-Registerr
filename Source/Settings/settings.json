@@ -7,7 +7,7 @@
   "botActivityType": "WATCHING",
   "botStatus": "idle",
 
-  "mongoConnectionLink": "mongodb+srv://rencia:Vahap2020@cluster0.jxyds.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "mongoConnectionLink": "",
 
   "welcomeChannel": "965716650735321098",
   "rulesChannel": "965716675586564116",
