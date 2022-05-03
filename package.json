@@ -1,0 +1,19 @@
+{
+  "name": "rencia-register",
+  "version": "1.0.0",
+  "description": "",
+  "main": "rencia.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "Rencia-Kiezsa",
+  "license": "MIT",
+  "dependencies": {
+    "discord-buttons": "^3.2.1",
+    "discord.js": "^12.5.3",
+    "fs": "0.0.1-security",
+    "moment": "^2.29.1",
+    "mongoose": "^5.11.14",
+    "ms": "^2.1.3"
+  }
+}

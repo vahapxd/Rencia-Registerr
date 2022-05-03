@@ -1,0 +1,30 @@
+{
+  "botToken": ":DDDDD",
+  "botOwner": "728931818182541392",
+  "botPrefix": ".",
+  "botVoiceChannel": "965717034904203284",
+  "botActivityName": "BUBBLES <3",
+  "botActivityType": "WATCHING",
+  "botStatus": "idle",
+
+  "mongoConnectionLink": "mongodb+srv://rencia:Vahap2020@cluster0.jxyds.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+
+  "welcomeChannel": "965716650735321098",
+  "rulesChannel": "965716675586564116",
+  "Suspicious": "970785984432189530",
+  "Unregistered": "965716559781838868",
+
+
+  "FamilyRole": "965808009324417117",
+  "Tag": "◈ ",
+  "Untag": "◈ ",
+
+  "RegisterStaff": ["728931818182541392", "841620030482284564","965716383985987685"],
+  "ManRole": "965716422045073488",
+  "WomanRole": "965716417288765460",
+  "BoosterRole": "967151881929523230",
+
+  "Yes": "✅",
+  "No": "❌"
+
+}
