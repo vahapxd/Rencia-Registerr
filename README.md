@@ -1,2 +1,2 @@
-# Rencia Tarafından "Bubbles" Sunucusu için Kodlanmıştır 
+# Rencia Tarafından Kodlanmıştır 
 # KOPYALAYANIN ANASINI GÖTTEN ///
